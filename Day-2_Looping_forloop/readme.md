@@ -65,7 +65,7 @@ done
 
 This is a simple yet powerful example of how loops work in Shell Scripting! More to come in **Day 3** 🚀
 
-📂 **GitHub Repo:** [Shell Scripting - Day 2](https://github.com/ChandraSekharC478/ShellScripting/tree/main/ShellScipting/Day-2)
+📂 **GitHub Repo:** [Shell Scripting - Day 2](https://github.com/ChandraSekharC478/ShellScripting/tree/main/Day-2_Looping_forloop)
 
 #DevOps #ShellScripting #Linux #Automation #Learning
 
